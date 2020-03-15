@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1583647256 source:c:\users\dell\desktop\ml4_final\fuse.c
+	<avr/io.h>
+
+1583659233 source:c:\users\dell\desktop\ml4_final\func.c
+	"ml4_header.h"
+
+1583658489 c:\users\dell\desktop\ml4_final\ml4_header.h
+	<avr/io.h>
+	<util/delay.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
+1583658878 source:c:\users\dell\desktop\ml4_final\isr.c
+	"ml4_header.h"
+
+1583658441 source:c:\users\dell\desktop\ml4_final\main.c
+	"ml4_header.h"
+
+1583658649 source:c:\users\dell\desktop\ml4_final\port_config.c
+	"ml4_header.h"
+
+1583903334 source:c:\users\aamirb\desktop\embedded c\fuse.c
+	<avr/io.h>
+
+1583908256 source:c:\users\aamirb\desktop\embedded c\isr.c
+	"ml4_header.h"
+
+1583905726 c:\users\aamirb\desktop\embedded c\ml4_header.h
+	<avr/io.h>
+	<util/delay.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
+1583910451 source:c:\users\aamirb\desktop\embedded c\main.c
+	"ml4_header.h"
+
+1583904291 source:c:\users\aamirb\desktop\embedded c\port_config.c
+	"ml4_header.h"
+
+1583910839 source:c:\users\aamirb\desktop\embedded c\func.c
+	"ml4_header.h"
+
